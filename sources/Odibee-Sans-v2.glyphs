@@ -1,5 +1,5 @@
 {
-.appVersion = "73";
+.appVersion = "1271";
 copyright = "Copyright © 2017 by James Barnard - Barnard Co. Limited. All rights reserved.";
 customParameters = (
 {
@@ -46,6 +46,40 @@ alignmentZones = (
 );
 ascender = 748;
 capHeight = 700;
+customParameters = (
+{
+name = hheaAscender;
+value = 858;
+},
+{
+name = hheaDescender;
+value = -250;
+},
+{
+name = hheaLineGap;
+value = 0;
+},
+{
+name = typoAscender;
+value = 858;
+},
+{
+name = typoDescender;
+value = -250;
+},
+{
+name = typoLineGap;
+value = 0;
+},
+{
+name = winAscent;
+value = 858;
+},
+{
+name = winDescent;
+value = 250;
+}
+);
 descender = -249;
 id = "53C92641-43F1-46DD-9425-0FDC2985AE5D";
 xHeight = 500;
@@ -10702,6 +10736,9 @@ unicode = 02DC;
 );
 instances = (
 {
+instanceInterpolations = {
+"53C92641-43F1-46DD-9425-0FDC2985AE5D" = 1;
+};
 name = Regular;
 }
 );
@@ -11174,6 +11211,7 @@ W = -70;
 X = -70;
 Y = -90;
 a = -20;
+d = -40;
 e = -20;
 h = -30;
 j = -120;
@@ -11183,7 +11221,6 @@ o = -20;
 w = -10;
 x = -50;
 z = -40;
-d = -40;
 };
 P = {
 A = -100;
