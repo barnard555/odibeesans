@@ -28,7 +28,7 @@ name = "Use Line Breaks";
 value = 1;
 }
 );
-date = "2017-05-04 08:39:48 +0000";
+date = "2019-11-07 19:03:50 +0000";
 designer = "James Barnard - Barnard Co. Limited";
 designerURL = "http://barnard.co";
 familyName = "Odibee Sans";
@@ -12273,5 +12273,5 @@ GSDimensionPlugin.Dimensions = {
 };
 };
 versionMajor = 2;
-versionMinor = 0;
+versionMinor = 1;
 }
